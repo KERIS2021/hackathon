@@ -57,11 +57,11 @@ https://github.com/KERIS2021/practice
 ## 문의
 
 ### 실시간 문의
-* 운영 기간: 2020.11.02 ~ 11.14, 15시 ~ 18시
-* 문의 게시판: [Slido 실시간 문의 게시판](https://app.sli.do/event/f3usp3m1)
+* 운영 기간: 
+* 문의 게시판: 
 * **실시간 문의은 위 운영 시간에만 운영됨**
  
 ### 온라인 게시판 및 이메일 문의
-* [온라인 게시판](https://github.com/keris2020/hackathon/issues)
-* 이메일: help.keris@gmail.com 
+* [온라인 게시판](https://github.com/keris2021/hackathon/issues)
+* 이메일: help.keris2021@gmail.com 
 * **온라인 게시판 및 이메일 문의는 대회기간 상시 운영**
