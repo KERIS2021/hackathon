@@ -46,9 +46,9 @@ https://github.com/KERIS2021/practice
 1. 신청 기간: ~ 2021. 7. 23.(금) 00:00 <br>
 2. 신청 방법: <br>
   + 이메일 접수
-    + jnk@keris.or.kr 로 **참가 신청서 1부** 제출
+    + 접수접수
   + 제출서류
-    + KERIS AI 해커톤 참가 신청서 1부 **(Github 아이디 기입 필수)**
+    + 제출제출
 
 ## FAQ
 * [Github 회원 가입 방법](https://github.com/keris2020/hackathon/issues/2#issue-725131238)
