@@ -51,7 +51,7 @@ https://github.com/KERIS2021/practice
     + 제출제출
 
 ## FAQ
-* [Github 회원 가입 방법](https://github.com/keris2020/hackathon/issues/2#issue-725131238)
+* [Github 회원 가입 방법](https://github.com/KERIS2021/hackathon/issues/1)
 
 ## 문의
 
