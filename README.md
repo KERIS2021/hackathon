@@ -9,8 +9,9 @@
 > 텍스트 데이터셋 이용하여 환자의 뇌졸증 예측 모델 개발!
 #### 2. 마스크 착용 감지<br>
 > 이미지 분류 알고리즘을 통해 마스크 착용 이미지를 분류하는 인공지능 알고리즘 개발!<br>
-> 자세한 내용은 KERIS2021 Pratice 확인<br>
-> https://github.com/KERIS2021/practice
+
+자세한 내용은 KERIS2021 Pratice 확인<br>
+https://github.com/KERIS2021/practice
 
 ## 미션
 #### 1. AI 문제 : AI 문제<br>
